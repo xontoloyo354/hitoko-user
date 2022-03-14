@@ -30,13 +30,13 @@ const style = makeStyles(() => ({
     border: "1px solid #EBEBEB",
     marginLeft: 20,
   },
-  // wrapper: {
-  //   paddingRight: 40,
-  // },
-  // swiperContainer: {
-  //   maxWidth: 500,
-  //   paddingRight: 40,
-  // },
+  wrapper: {
+    paddingRight: 40,
+  },
+  swiperContainer: {
+    maxWidth: 500,
+    paddingRight: 40,
+  },
 }));
 
 const Home = () => {
